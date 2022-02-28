@@ -48,7 +48,7 @@
     "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education": [
       {
-        "school": "Digital school of Paris?",
+        "school": "Digital school of Paris",
         "degree": "Masters in web developement",
         "graduated": "April 2021",
         "description": "As part of a very small but talented team, I worked on the entire front end of an airbnb concierge solution. It was a React/Typescript/Javascript/Redux/ and Next.js for the front end, and Symfony/PHP/apiPlateforme and mysql for the backEnd."
@@ -157,12 +157,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.",
+        "user": "Will Smith"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working.",
+        "user": "Elon Musk"
       }
     ]
   }
