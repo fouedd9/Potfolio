@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Foued SAIDANE",
+    "occupation": "Full stack web developer",
+    "description": "Freshly graduated full-stack web developer from Digital school of Paris (April 2021).",
+    "image": "profilepic.jpeg",
+    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding and modeling 3D. Born in a small town in Tunisia, I made my move to Paris  where I graduated with a master's degree in web development at the digital school of Paris, in parallel to my many ongoing projects. I love to create and I tend to have too many projects going on at the same time. Outside of work, I'm a roller, a passionate soccer referee. I love to travel and lead a fairly nomadic lifestyle. I built much of my first portfolio from the beaches of Malaga Spain and I dream of being able to take my work with me when I travel the world..",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "foued@fsdigital.fr",
+    "phone": "+33767653082",
+    "address": {
+      "street": "Rue denfert rochereau",
+      "city": "Paris",
+      "state": "France",
+      "zip": "93130"
+    },
+    "website": "https://www.fsdigital.fr",
+    "resumedownload": "http://myreader.toile-libre.org/Foued_Saidane_resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/foued.saidane.5473/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/saidanefoued",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/foued-saidane/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/fsdigital.fr/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/fouedd9",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Digital school of Paris?",
+        "degree": "Masters in web developement",
+        "graduated": "April 2021",
+        "description": "As part of a very small but talented team, I worked on the entire front end of an airbnb concierge solution. It was a React/Typescript/Javascript/Redux/ and Next.js for the front end, and Symfony/PHP/apiPlateforme and mysql for the backEnd."
+      },
+      {
+        "school": "Hetic",
+        "degree": "MBA Digital transformation",
+        "graduated": "MBA 2018",
+        "description": "Design and development of digital solutions and identify and design digital solutions to develop or enhance the activity of an organization: company, association or administration. I learned to master the computer languages allowing the structuring of databases, the design and development of a web or mobile interface and the optimization of the interaction between the client interface and one or more databases, or even with other applications Translated with www.DeepL.com/Translator (free version)"
+      }
+    ],
+    "work": [
+      {
+        "company": "SIEMENS",
+        "title": "Industrial machine programming ",
+        "years": "March 2016",
+        "description": "Programming of a HMI for a control system, acquisition and processing of machine data."
+      },
+      {
+        "company": "Losberger de boer",
+        "title": "Web developper",
+        "years": "September 2020",
+        "description": "Programming of a static web solution allowing to display the lists of the various categories of the company's products on a touch screen during an Armed Forces Technology Exhibition."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "65%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "NextJS",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Mysql",
+        "level": "70%"
+      },
+      {
+        "name": "Modelisation 3D",
+        "level": "99%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Keyservice: airbnb concierge",
+        "category": "short-term rental management",
+        "image": "keyservice.png",
+        "url": "https://f2i-cw22-dl-bm-fs.fr/"
+      },
+      {
+        "title": "Quiz",
+        "category": "Quiz i build for an association of soccer referees in Paris ",
+        "image": "airbus.JPG",
+        "url": "https://fouedd9.github.io/Quiz-app/"
+      },
+      {
+        "title": "Real estate agency paris",
+        "category": "Website i build for real estate agency in Paris",
+        "image": "kaza.png",
+        "url": "https://fouedsaidane.surge.sh/"
+      },
+      {
+        "title": "Fsdigital agency",
+        "category": "A React based personal website",
+        "image": "Fugu.jpg",
+        "url": "http://www.fsdigital.fr"
+      },
+      {
+        "title": "Modelisation 3D",
+        "category": "Freelance: conception and modelisation 3D",
+        "image": "resume-website.jpg",
+        "url": "https://www.youtube.com/watch?v=mGouU37b0pY&ab_channel=FouedSAIDANE"
+      },
+      {
+        "title": "Modelisation 3D",
+        "category": "Freelance: conception and modelisation 3D",
+        "image": "dalo.jpg",
+        "url": "https://www.youtube.com/watch?v=z-V7EoksJtk&feature=youtu.be&ab_channel=FouedSAIDANE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
