@@ -1,11 +1,11 @@
 # React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
-### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
-### If this template has helped you and you'd like to support my work, feel free to [♥️ Sponsor](https://github.com/sponsors/tbakerx) the project 
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+### <a href="https://devWeb.surge.sh">LIVE DEMO</a> 
+### If this template has helped you and you'd like to support my work, feel free to Like the project 
 ### 😁 A much improved V2 is on the way 🎉
 
 ## Description
-This is a ReactJS based personal resume website template. I have built this by following a Udemy course (credits below) and by beginning with the Ceevee template by Styleshout (credits also below), and breaking up their template into isolated React components. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+This is a ReactJS based personal resume website template. I have built this with isolated React components. Data is fed directly from a JSON File. 
 
 ## Make it Your Own!
 ### 1. Make sure you have what you need
@@ -27,15 +27,3 @@ Of course, all of the code is there and nothing is hidden from you so if you wou
 When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
 
 
-## Credits
-##### Udemy Course
-<a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
-
-#### HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-##### Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-##### Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
